@@ -8,6 +8,10 @@ public class CLassPrincipal {
 		System.out.println(x + y);
 		
 		System.out.println(x - y);
+		
+		System.out.println(x * y);
+		
+		System.out.println(x / y);
 	}
 
 }
